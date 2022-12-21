@@ -11,7 +11,7 @@
 Terminal application developed on Python:
 * Handles connections from multiple clients
 * Responds to messages according to the specified protocol
-* Let clients stablish chat channels with other clients
+* Allows clients to establish chat channels with other clients
 
 ## Client
 GUI application developed on Python and TKinter

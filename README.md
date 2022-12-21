@@ -1,11 +1,11 @@
 # Networking-Asyncronous-Chat
 
 ## Technologies
-* Python:
-    * socket
-    * threading
-    * tkinter
-    * pandas
+Python:
+* socket
+* threading
+* tkinter
+* pandas
 
 ## Server
 Terminal application developed on Python:

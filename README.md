@@ -1,7 +1,7 @@
 # Networking-Asyncronous-Chat
 
 ## Technologies
-Python:
+Python
 * socket
 * threading
 * tkinter

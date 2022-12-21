@@ -2,10 +2,10 @@
 
 ## Technologies
 * Python:
-** socket
-** threading
-** tkinter
-** pandas
+    * socket
+    * threading
+    * tkinter
+    * pandas
 
 ## Server
 Terminal application developed on Python:

@@ -20,4 +20,4 @@ GUI application developed on Python and TKinter
 * Supports sending files
 * Implements symmetric encryption
 
-<img src="https://github.com/grimloc-aduque/Networking-Asyncronous-Chat/blob/main/clientUI.png" style="width:200px;"/>
+<img src="https://github.com/grimloc-aduque/Networking-Asyncronous-Chat/blob/main/clientUI.png" style="width:400px;"/>

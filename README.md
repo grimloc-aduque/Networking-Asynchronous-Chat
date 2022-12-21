@@ -21,4 +21,4 @@ GUI application developed on Python and TKinter
 * Implements symmetric encryption
 
 
-![alt text](https://github.com/grimloc-aduque/Networking-Asyncronous-Chat/blob/main/test.jpg)
+![alt text](https://github.com/grimloc-aduque/Networking-Asyncronous-Chat/blob/main/clientUI.png)

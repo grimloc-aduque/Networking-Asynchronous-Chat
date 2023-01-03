@@ -1,4 +1,4 @@
-# Networking-Asyncronous-Chat
+# Networking-Asynchronous-Chat
 
 ## Technologies
 Python
